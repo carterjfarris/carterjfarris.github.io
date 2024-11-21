@@ -2,4 +2,4 @@ collections:
   authors:
 theme: mere-blog-theme
 paginate: 6
-paginate_path: "/page:num"
+paginate_path: "/blog:num"
